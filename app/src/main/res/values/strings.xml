@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PocKal</string>
+    <string name="b">b</string>
+    <string name="neco_se_pokazilo">neco se pokazilo</string>
+    <string name="a">a</string>
+    <string name="rovno">=</string>
+    <string name="c">c</string>
+    <string name="zlin">Zlin</string>
+    <string name="celsium">°C</string>
+</resources>
